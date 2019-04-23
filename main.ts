@@ -1,12 +1,12 @@
 
 /**
-* makecode Co2IR LTS Package.
+* makecode COZIR LTS Package.
 * Let's Talk Science - Living Space Action Project
 * https://www.letstalkscience.ca/
 */
 
 /**
- * Title: Let's Talk Science - Co2IR Sensor
+ * Title: Let's Talk Science - COZIR Sensor
  * Author: Simon Monk
  * Co-Author: Jennifer Ferguson
  * Date: 05-2018
@@ -15,7 +15,7 @@
 */
 
 /**
- * Custom blocks
+ * Let's Talk Science! COZIR block
  */
 
 //% color=190 weight=100 icon="\uf135" block="Let's Talk Science!"
