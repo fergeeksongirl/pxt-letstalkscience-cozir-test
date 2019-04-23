@@ -1,8 +1,9 @@
 
 /**
- * Use this file to define custom functions and blocks.
- * Read more at https://makecode.microbit.org/blocks/custom
- */
+* makecode Co2IR LTS Package.
+* Let's Talk Science - Living Space Action Project
+* https://www.letstalkscience.ca/
+*/
 
 /**
  * Title: Let's Talk Science - Co2IR Sensor
