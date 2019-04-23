@@ -1,0 +1,11 @@
+{
+    "name": "Let's Talk Science!",
+    "version": "1.0.0",
+    "description": "makecode COZIR LTS Package for micro:bit",
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true,
+    "installedVersion": ""
+}
